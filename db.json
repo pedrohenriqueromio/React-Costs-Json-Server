@@ -1,0 +1,90 @@
+{
+  "galeria": [
+    {
+      "name": "teste1",
+      "budget": "123",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": "144",
+      "id": 1
+    }
+  ],
+  "projects": [
+    {
+      "name": "Desenvolvimento do novo site",
+      "budget": "3000",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": 0,
+      "services": [],
+      "id": 3
+    },
+    {
+      "name": "teste1",
+      "budget": "123",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "cost": "144",
+      "id": 5
+    },
+    {
+      "name": "react novo",
+      "budget": "10000",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 200,
+      "services": [
+        {
+          "name": "serviço",
+          "cost": "150",
+          "description": "feito",
+          "id": "9e8898ba-38f3-4daa-b0c1-b2a6afd62daa"
+        },
+        {
+          "name": "serviço 2 ",
+          "cost": "50",
+          "description": "150",
+          "id": "23ff9ad0-e80f-4101-a602-e8286857b0c9"
+        }
+      ],
+      "id": 6
+    },
+    {
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "name": "teste ",
+      "budget": "11111",
+      "cost": 0,
+      "services": [],
+      "id": 7
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
